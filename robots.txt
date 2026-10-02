@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chwaecrystal-eng.github.io/barisggang/sitemap.xml
